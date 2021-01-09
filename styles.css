@@ -1,0 +1,56 @@
+h1 {
+  color: green;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 32px;
+}
+
+* {
+  border: 1px dashed black;
+}
+
+body {
+  background-color: indigo;
+  margin: 40px 30px 50px 60px;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  color: gold;
+}
+
+div {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid black;
+  height: 150px;
+  width: 150px;
+  background-color: plum;
+}
+
+#first {
+  background-color: palegreen;
+  width: 150px;
+  height: 150px;
+}
+#second {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+#third {
+  background-color: tomato;
+  width: 50px;
+  height: 50px;
+}
+
+span {
+  margin: 40px 50px;
+  display: block;
+  background-color: salmon;
+}
+
+a {
+  color: hotpink;
+}
